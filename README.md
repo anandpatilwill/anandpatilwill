@@ -1,8 +1,5 @@
-- 👋 Hi, I’m anand patil
-- 👀 I’m interested in Learning Git
-- 🌱 I’m currently learning Git
-- 💞️ I’m looking to collaborate on Git
-- 📫 How to reach me anandpatilwill@gmail.com
+- 👋 Hi,Hello world!
+- - 📫 How to reach me anandpatilwill@gmail.com
 
 <!---
 anandpatilwill/anandpatilwill is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
